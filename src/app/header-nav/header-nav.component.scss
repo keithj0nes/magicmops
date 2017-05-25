@@ -1,0 +1,17 @@
+header {
+  position: fixed;
+  height: 100px;
+  width: 100vw;
+  background: lightgreen;
+  // top: 0;
+}
+
+.page-scroll-header {
+    background-color: #ccc !important;
+    opacity: 0.9;
+    height: 60px;
+}
+
+.my-header {
+    transition: 0.5s ease-out;
+}
